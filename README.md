@@ -1,2 +1,2 @@
-# xism4.github.io
-ToxicClient Web
+# html-css-website
+Build a beatiful HTML/CSS website. Code for the scotch.io course.
